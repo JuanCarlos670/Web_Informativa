@@ -1,4 +1,4 @@
-let a= 7
+let a= 41
 let b= 8
 let c= 10
 if(a>=b && a>=c){
